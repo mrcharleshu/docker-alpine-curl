@@ -1,9 +1,5 @@
 # Docker Alpine Curl
 
-Like it says, it's a docker image built on alpine with curl installed. Size 5.93 MB.
+Like it says, it's a docker image built on alpine with coreutils updated and curl installed. Size 7.1 MB.
 
-Available from docker hub as [byrnedo/alpine-curl](https://hub.docker.com/r/byrnedo/alpine-curl/)
-
-## Usage
-
-    docker run --rm byrnedo/alpine-curl https://www.google.com
+Available from docker hub as [mrcharleshu/docker-alpine-curl](https://hub.docker.com/r/mrcharleshu/docker-alpine-curl/)
